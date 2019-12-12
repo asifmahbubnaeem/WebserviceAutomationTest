@@ -1,0 +1,10 @@
+<XML>
+    <host>http://qa-bianca:8080</host>
+    <nameServer>http://epsilon.qa.local</nameServer>
+    <user>qa_admin</user>
+    <password>admin</password>
+    <webservice>/webservice</webservice>
+	<pcuser>amnm</pcuser>
+    <reportFolder>TEST REPORT</reportFolder>
+    <reportfile>Report.xls</reportfile>
+</XML>
